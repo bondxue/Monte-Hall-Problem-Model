@@ -4,7 +4,7 @@ monte carlo simulation with multi-processing
 ### Project description
 **Monte Hall problem** is a famous problem in probability based on a game show. It has generated much controversy due to the non-intuitive nature of the solution. The objective of this mini project is to write a simulation of the game that empirically demonstrates the accepted solution is indeed the correct solution. 
 
-![Monty-Hall](images\montyhall.jpg)
+![Monty-Hall](images/montyhall.jpg)
 
 ### Project structure
 This project contains the following files:
